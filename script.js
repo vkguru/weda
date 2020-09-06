@@ -13,7 +13,7 @@ const we = document.getElementById('we');
 
 const api = {
   baseQueryUrl: 'http://api.openweathermap.org/data/2.5/weather?q=',
-  id: '3de344cd2121834b9d60851dd2a472ad',
+  id: id,
   metricUnit: 'units=metric'
 }
 
